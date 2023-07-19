@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on @adnstech<br>🌱 I’m currently learning [Rust](https://github.com/rust-lang/rust/)<br>💬 How to reach me **support@adns-tech.dev**<br>⚡ Student at [Ynov](https://www.ynov.com/)
+🔭 I’m currently working on [@adnstech](https://github.com/adnstech/)<br>🌱 I’m currently learning [Rust](https://github.com/rust-lang/rust/)<br>💬 How to reach me **support@adns-tech.dev**<br>⚡ Student at [Ynov](https://www.ynov.com/)
 
 
 # 💻 Tech Stack:
