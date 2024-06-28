@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available on [My Portfolio](https://zweb0.adns-tech.dev)
 
-<p hidden>IT</p>
+<p hidden></p>
 Web Development:
 <p align="left">
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
