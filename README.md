@@ -7,7 +7,7 @@
 
 - 🧑‍🏫 I'm studying at [School 42](https://42tokyo.jp)
 
-- 👨‍💻 All of my projects are available on [My Portfolio](https://zweb0.adns-tech.dev)
+- 👨‍💻 All my projects are available on [My Portfolio](https://zweb0.adns-tech.dev)
 
 <p hidden></p>
 Web Development:
