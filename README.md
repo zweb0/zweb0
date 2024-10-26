@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust and GLeam**
 
-- 👯 I contribute on [Higher Game](https://higherthegame.com)
+- 🧑‍🏫 I'm studying at [School 42](https://42tokyo.jp)
 
 - 👨‍💻 All of my projects are available on [My Portfolio](https://zweb0.adns-tech.dev)
 
